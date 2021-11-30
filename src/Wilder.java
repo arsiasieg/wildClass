@@ -35,7 +35,4 @@ public class Wilder {
 			return "Je m'appelle " + this.getFirstname() + " et je ne suis pas aware...";
 		}
 	}
-	
-	
-
 }
